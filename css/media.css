@@ -1,0 +1,162 @@
+@media screen and (max-width: 321px) {
+  .sticky-nav a {
+    float: none;
+    display: none;
+  }
+  #hamppari {
+    display: block;
+    padding: 10px;
+  }
+  header {
+    background-size: 400%;
+    background-position-y: -250px;
+    background-attachment: fixed;
+  }
+  .sticky-nav.responsive {
+    position: relative;
+  }
+  .sticky-nav.responsive a {
+    float: none;
+    display: block;
+    width: 100%;
+  }
+  .teksti {
+    padding: 0px;
+    margin: 0px;
+  }
+  .teksti h1 {
+    font-size: 60px;
+    padding: 0px;
+    margin: 0px;
+    padding-right: 30px;
+  }
+  .teksti h2 {
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    padding-right: 30px;
+    margin-top: -15px;
+  }
+  .teksti p {
+    font-size: 15px;
+    padding: 15px;
+    margin: 0px;
+    padding-top: 50px;
+  }
+  .pointit {
+    font-size: 15px;
+    padding: 0px;
+    padding-left: 70px;
+    margin: 0;
+    list-style-position: inside;
+  }
+  .pointit li {
+    border-bottom: 1px solid rgb(92, 92, 92);
+    padding: 10px;
+    margin-right: 30px;
+  }
+  .rullaavatausta {
+    background-image: linear-gradient(rgba(0, 0, 0, 1) 100%, black),
+      url(../img/pexels-quang-nguyen-vinh-2175952.jpg);
+    margin-top: 150px;
+  }
+  .tahtain div img {
+    width: 650px;
+    right: -125px;
+  }
+  .aboutus {
+    padding: 0px;
+    margin: 0px;
+    column-gap: 30px;
+    row-gap: 25px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+  }
+  .design {
+    padding: 0px;
+    margin: 0px;
+    gap: 10px;
+    margin-bottom: 100px;
+  }
+  .div6 {
+    width: 310px;
+  }
+  .upote iframe {
+    width: 320px;
+    height: 100%;
+  }
+  .nutshell {
+    background-size: cover;
+    background-position-x: -4200px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5) 100%, #fff),
+      url(../img/pexels-andreea-ch-3969099.jpg);
+  }
+  .aperiam {
+    margin: 0px;
+    font-size: 1em;
+    padding-left: 10px;
+  }
+  .dt {
+    height: 100px;
+  }
+  .dt h1 {
+    font-size: 50px;
+  }
+  .au {
+    font-size: 40px;
+  }
+  .mike,
+  .joe,
+  .maria,
+  .jorma {
+    height: 125px;
+    width: 125px;
+  }
+  .nimi1,
+  .nimi2,
+  .nimi3,
+  .nimi4 {
+    padding: 55px 0;
+  }
+  .contact p {
+    font-size: 2.5em;
+  }
+  .info div h1 {
+    font-size: 40px;
+    padding-bottom: 75px;
+  }
+  .loota {
+    padding: 0px;
+    margin: 0px;
+    background-color: #636363;
+    position: absolute;
+    padding-bottom: 30px;
+    width: 100%;
+  }
+  .kokologo {
+    position: relative;
+    margin: 0;
+  }
+  .alalogo {
+    float: left;
+    padding: 0;
+    padding-top: 10px;
+    margin-left: 15px;
+  }
+  .loppuosa h2 {
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+  }
+  .loppuosa h3 {
+    font-size: 12px;
+    margin: 0;
+  }
+  .img {
+    padding: 0;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 240px;
+  }
+}
