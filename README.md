@@ -1,1 +1,1 @@
-HTML/CSS-kurssin loppuharjoitus
+HTML-kurssin loppuharjoitus
